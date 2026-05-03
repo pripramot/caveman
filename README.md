@@ -244,7 +244,7 @@ hooks สำหรับ Claude Code แบบ standalone (ไม่ต้อง
 | `mixed-with-code.md` | 888 | 560 | **36.9%** |
 | **เฉลี่ย** | **898** | **481** | **46%** |
 
-เอกสารฉบับเต็ม: [caveman-compress README](caveman-compress/README.md) [หมายเหตุ Snyk false-positive](./caveman-compress/SECURITY.md)
+เอกสารฉบับเต็ม: [caveman-compress README](caveman-compress/README.md). [หมายเหตุ Snyk false-positive](./caveman-compress/SECURITY.md)
 
 ## caveman-shrink (MCP middleware)
 
